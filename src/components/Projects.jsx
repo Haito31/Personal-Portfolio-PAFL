@@ -6,7 +6,7 @@ const Projects = () => {
       title: "Website Redesign (HTML+ CSS + JavaScript)",
       description:
         "Completed on 2026 for the client Visolit. A complete redesign of their website to improve user experience and modernize the look.",
-      link: null,
+      link: https://www.visolit.com/,
     },
     {
       title: "Second Brain Application (Electron + Tailwind CSS)",
